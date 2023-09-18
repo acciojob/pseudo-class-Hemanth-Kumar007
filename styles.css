@@ -2,8 +2,7 @@
 #container{
 	margin: 20px;
 }
-
-.ele{
+#container span{
 	color: #f00;
 	font-size: 20px;
 }
