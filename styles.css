@@ -6,13 +6,13 @@
 	color: rgb(255, 0, 0);
 	font-size: 20px;
 } */
-div::before{
+#container::before{
 	content: "Before Element";
 	color: #f00;
 	font-size: 20px;
 }
 
-div::after{
+#container::after{
 	content: "After Element";
 	color: #f00;
 	font-size: 20px;
